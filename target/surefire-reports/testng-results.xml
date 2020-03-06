@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5675" started-at="2020-03-06T13:50:32 IST" finished-at="2020-03-06T13:50:38 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5675" started-at="2020-03-06T13:50:32 IST" finished-at="2020-03-06T13:50:38 IST">
+      <class name="com.users.userTimelineProject.UserTimelineProjectApplicationTest">
+        <test-method status="PASS" signature="contextLoads()" name="contextLoads" duration-ms="5" started-at="2020-03-06T13:50:38 IST" finished-at="2020-03-06T13:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.users.userTimelineProject.UserTimelineProjectApplicationTest -->
+      <class name="com.users.userTimelineProject.controller.PostServiceTest">
+        <test-method status="PASS" signature="updateListTest() throws java.lang.Exception" name="updateListTest" duration-ms="4416" started-at="2020-03-06T13:50:33 IST" finished-at="2020-03-06T13:50:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateListTest -->
+        <test-method status="PASS" signature="getEndpointsTest() throws java.lang.Exception" name="getEndpointsTest" duration-ms="4423" started-at="2020-03-06T13:50:33 IST" finished-at="2020-03-06T13:50:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEndpointsTest -->
+        <test-method status="PASS" signature="getPostTest() throws java.lang.Exception" name="getPostTest" duration-ms="4818" started-at="2020-03-06T13:50:33 IST" finished-at="2020-03-06T13:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostTest -->
+        <test-method status="PASS" signature="getUniqueIdsTest() throws java.lang.Exception" name="getUniqueIdsTest" duration-ms="5219" started-at="2020-03-06T13:50:33 IST" finished-at="2020-03-06T13:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUniqueIdsTest -->
+        <test-method status="PASS" signature="contextLoads()" name="contextLoads" duration-ms="5228" started-at="2020-03-06T13:50:33 IST" finished-at="2020-03-06T13:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.users.userTimelineProject.controller.PostServiceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
