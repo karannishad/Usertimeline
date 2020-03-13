@@ -8,6 +8,6 @@ spec:
   replicas: 2
   containers:
     – name: task_v1
-      image: usertimelineimage
+      image: karannishad/usertimeline
       ports:
         – containerPort: 8080
