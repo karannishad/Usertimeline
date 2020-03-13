@@ -13,8 +13,9 @@ spec:
       metadata:
         labels:
           app: usertimeline
-  containers:
-    – name: usertimeline
-      image: karannishad/usertimeline:latest
-      ports:
-        – containerPort: 8080
+      spec:
+        containers:
+        – name: usertimeline
+          image: karannishad/usertimeline:latest
+          ports:
+          – containerPort: 8080
