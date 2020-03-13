@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b71bee7c-ece6-4637-83fd-47d075e22d7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/usertimeline-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usertimeline-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/usertimeline-deployment.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,5 +106,9 @@
       <screen x="0" y="27" width="1366" height="688" />
     </state>
     <state width="1320" height="238" key="GridCell.Tab.0.right/0.27.1366.688@0.27.1366.688" timestamp="1583482845426" />
+    <state x="278" y="102" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1584073722391">
+      <screen x="0" y="27" width="1366" height="688" />
+    </state>
+    <state x="278" y="102" width="800" height="536" key="Vcs.Push.Dialog.v2/0.27.1366.688@0.27.1366.688" timestamp="1584073722391" />
   </component>
 </project>
