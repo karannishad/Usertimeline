@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: usertimeline
+  labels:
+    app: usertimeline
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: usertimeline
+    template:
+      metadata:
+        labels:
+          app: usertimeline
+  containers:
+    – name: usertimeline
+      image: karannishad/usertimeline:latest
+      ports:
+        – containerPort: 8080
